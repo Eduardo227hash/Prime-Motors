@@ -10,7 +10,7 @@ Sistema web desenvolvido em PHP utilizando padrão de arquitetura MVC (MODELS-VI
 
 O sistema possui uma tela de autenticação para controlar o acesso dos usuários. O login é realizado por meio de e-mail e senha cadastrados no banco de dados MySQL.
 Após a validação dos dados, o usuário é redirecionado para a dashboard do sistema, onde poderá acessar as funcionalidades disponíveis.
-![alt text](public/assets/print-login.png)
+![alt text](lojadecarros/public/assets/print-login.png)
 
 
 
@@ -18,7 +18,7 @@ Após a validação dos dados, o usuário é redirecionado para a dashboard do s
 
 O sistema permite o cadastro de novos usuários por meio de um formulário contendo informações básicas, como nome, e-mail e senha.
 Os dados informados são armazenados no banco de dados MySQL e posteriormente utilizados para autenticação e acesso ao sistema.
-![alt text](public/assets/print-cadastro.png)
+![alt text](lojadecarros/public/assets/print-cadastro.png)
 
 
 
@@ -34,7 +34,7 @@ O projeto conta com um sistema de Dashboard, onde o usuário pode observar infor
 
 -Produtos 
 
-![alt text](public/assets/print-dash.png)
+![alt text](lojadecarros/public/assets/print-dash.png)
 
 
 
@@ -62,12 +62,12 @@ O projeto conta com um sistema de Dashboard, onde o usuário pode observar infor
 
 2. **Iniciar Apache e MySQL**
 
-![alt text](public/assets/print-xampp.png)
+![alt text](lojadecarros/public/assets/print-xampp.png)
 
 
 3. **Importar o banco de dados no phpMyAdmin**
 
-![alt text](public/assets/print-xampp-import.png)
+![alt text](lojadecarros/public/assets/print-xampp-import.png)
 
 
 
@@ -77,17 +77,17 @@ O projeto conta com um sistema de Dashboard, onde o usuário pode observar infor
    C:\xampp\htdocs\lojadecarros
 
 
-![alt text](public/assets/print-disco.png)
+![alt text](lojadecarros/public/assets/print-disco.png)
 
 
 **Entre na pasta "xampp"**
 
-![alt text](public/assets/print-pasta-xampp.png)
+![alt text](lojadecarros/public/assets/print-pasta-xampp.png)
 
 
 **Depois na pasta "htdocs" e coloque a pasta do projeto**
 
-![alt text](public/assets/print-htdocs.png)
+![alt text](lojadecarros/public/assets/print-htdocs.png)
 
 5. **Depois abra no seu navegador:**
    http://localhost/lojadecarros/
