@@ -18,7 +18,7 @@ Após a validação dos dados, o usuário é redirecionado para a dashboard do s
 
 O sistema permite o cadastro de novos usuários por meio de um formulário contendo informações básicas, como nome, e-mail e senha.
 Os dados informados são armazenados no banco de dados MySQL e posteriormente utilizados para autenticação e acesso ao sistema.
-![alt text](lojadecarros/public/assets/print-cadastro.png)
+![alt text](lojadecarros/public/assets/Print-cadastro.png)
 
 
 
