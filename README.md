@@ -38,6 +38,12 @@ O projeto conta com um sistema de Dashboard, onde o usuário pode observar infor
 
 
 
+## 📝🚘 Registro de Veículos
+
+Ao acessar a aba "Produtos / Categorias" o usuário pode cadastra um veículo
+![alt text](lojadecarros/public/assets/print-cadastro-carro.png)
+
+
 ## Tecnologias utilizadas
 
 **PHP**
